@@ -81,17 +81,6 @@ The results from the models include:
     ```bash
    jupyter notebook fraud_detection.ipynb
 
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request with any suggestions or improvements.
-
-## Contact
-
-Amaan Poonawala - [GitHub](https://github.com/AmaanP314) | [LinkedIn](https://www.linkedin.com/in/amaan-poonawala/)
-
-Feel free to reach out for any questions or feedback.
-
-
 
 
    
