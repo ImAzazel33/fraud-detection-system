@@ -13,8 +13,7 @@ This project focuses on detecting fraudulent transactions using a dataset of fin
 - [Results](#results)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
-- [Contributing](#contributing)
-- [Contact](#contact)
+  
 
 ## Data Cleaning and Preprocessing
 
